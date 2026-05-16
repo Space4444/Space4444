@@ -7,6 +7,7 @@
   - [Space action 2D](https://github.com/Space4444/SpaceAction2D)
   - [Gravity Lens](https://github.com/Space4444/Gravity-Lens)
   - [Star Flight](https://github.com/Space4444/StarFlight)
+  - [Battle Shapes](https://github.com/Space4444/Battle-shapes/)
 
 <h2>📺 YouTube Videos</h2>
 
