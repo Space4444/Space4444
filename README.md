@@ -1,7 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Alex! <br/><a href="https://github.com/Space4444">Programmer</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Games</b>
+  - [Galactic Battles](https://blasterworld.alexkach99.workers.dev/) — [repository](https://github.com/Space4444/blasterworld)
+
+<h2>📺 YouTube Videos</h2>
+
+- [Solid state Tesla coil](https://youtu.be/2J_Jde7yMhM)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" />][telegram]
+
+[telegram]: https://t.me/AlexKD99
+[youtube]: https://www.youtube.com/@space_games
 
 <!--
-**Space4444/Space4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
