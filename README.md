@@ -10,7 +10,7 @@
 
 - [Solid state Tesla coil](https://youtu.be/2J_Jde7yMhM)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 My contacts</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" />][telegram]
