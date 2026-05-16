@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Games</b>
-  - [Galactic Battles](https://blasterworld.alexkach99.workers.dev/) — [repository](https://github.com/Space4444/blasterworld)
+  - [Galactic Battles](https://github.com/Space4444/blasterworld)
 
 <h2>📺 YouTube Videos</h2>
 
