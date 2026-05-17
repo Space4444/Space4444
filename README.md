@@ -9,6 +9,10 @@
   - [Star Flight](https://github.com/Space4444/StarFlight)
   - [Battle Shapes](https://github.com/Space4444/Battle-shapes/)
 
+<h2>Electronics</h2>
+
+- [Pulse generator](https://github.com/Space4444/Stm32Generator)
+
 <h2>📺 YouTube Videos</h2>
 
 - [Solid state Tesla coil](https://youtu.be/2J_Jde7yMhM)
