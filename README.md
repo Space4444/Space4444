@@ -9,7 +9,7 @@
   - [Star Flight](https://github.com/Space4444/StarFlight)
   - [Battle Shapes](https://github.com/Space4444/Battle-shapes/)
     
-- <b>Trading utilities</b>
+- <b>Trading tools</b>
   - [Tradesim](https://github.com/Space4444/tradesim)
 
 <h2>Electronics</h2>
