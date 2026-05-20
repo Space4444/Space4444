@@ -1,6 +1,8 @@
-<h1>Hi, I'm Alex! <br/><a href="https://github.com/Space4444">Programmer</a>
+<h1>I'm Alex, web and mobile app developer</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+[Portfolio website](https://space4444.github.io/portfolio/)
+
+<h2> Software Development Projects:</h2>
 
 - <b>Games</b>
   - [Galactic Battles](https://github.com/Space4444/blasterworld)
@@ -16,11 +18,11 @@
 
 - [Pulse generator](https://github.com/Space4444/Stm32Generator)
 
-<h2>📺 YouTube Videos</h2>
+<h2> YouTube Videos</h2>
 
 - [Solid state Tesla coil](https://youtu.be/2J_Jde7yMhM)
 
-<h2> 🤳 My contacts</h2>
+<h2> My contacts</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" />][telegram]
