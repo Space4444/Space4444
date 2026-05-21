@@ -3,7 +3,7 @@
 ## Software Development Projects
 
 - ### Websites
-  - [Portfolio](https://space4444.github.io/portfolio/) 
+  - [Portfolio](https://github.com/Space4444/portfolio)
 
 - ### Games
   - [Galactic Battles](https://github.com/Space4444/blasterworld)
