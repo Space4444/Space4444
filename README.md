@@ -1,28 +1,29 @@
-<h1>I'm Alex, web and mobile app developer</h1>
+# I'm Alex, web and mobile app developer
 
-[Portfolio website](https://space4444.github.io/portfolio/)
+## Software Development Projects
 
-<h2> Software Development Projects:</h2>
+- ### Websites
+  - [Portfolio](https://space4444.github.io/portfolio/) 
 
-- <b>Games</b>
+- ### Games
   - [Galactic Battles](https://github.com/Space4444/blasterworld)
   - [Battle Shapes](https://github.com/Space4444/Battle-shapes/)
   - [Gravity Lens](https://github.com/Space4444/Gravity-Lens)
   - [Star Flight](https://github.com/Space4444/StarFlight)
   - [Space action 2D](https://github.com/Space4444/SpaceAction2D)
     
-- <b>Trading tools</b>
+- ### Trading tools
   - [Tradesim](https://github.com/Space4444/tradesim)
 
-<h2>Electronics</h2>
+## Electronics
 
 - [Pulse generator](https://github.com/Space4444/Stm32Generator)
 
-<h2> YouTube Videos</h2>
+## YouTube Videos
 
 - [Solid state Tesla coil](https://youtu.be/2J_Jde7yMhM)
 
-<h2> My contacts</h2>
+## My contacts
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" />][telegram]
