@@ -19,7 +19,7 @@
 
 - [Pulse generator](https://github.com/Space4444/Stm32Generator)
 
-## YouTube Videos
+## Electric experiments
 
 - [Solid state Tesla coil](https://youtu.be/2J_Jde7yMhM)
 
