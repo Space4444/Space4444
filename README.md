@@ -1,4 +1,6 @@
-# I'm Alex, web and mobile app developer
+# Hello, I'm Alex
+
+I developed web and mobile games, trading tools and electronic devices. Currently I'm working on a trading software and learning blockchain.
 
 ## Software Development Projects
 
