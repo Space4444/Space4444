@@ -22,6 +22,7 @@
 ## Electric experiments
 
 - [Solid state Tesla coil](https://youtu.be/2J_Jde7yMhM)
+- [DC electric arc spinning in magnetic field](https://youtu.be/Skd7r6a4W-Y)
 
 ## My contacts
 
