@@ -23,7 +23,7 @@ Currently I'm working on a trading software and learning blockchain.
 
 - [Pulse generator](https://github.com/Space4444/Stm32Generator)
 
-## Electric experiments
+## Electrical experiments
 
 - [Solid state Tesla coil](https://youtu.be/2J_Jde7yMhM)
 - [DC electric arc spinning in magnetic field](https://youtu.be/Skd7r6a4W-Y)
