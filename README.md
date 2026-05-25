@@ -49,6 +49,10 @@ Currently I'm learning blockchain and working on a trading software with Python,
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg"
   alt="c++" width="40" height="40"
 /> </a>
+<a href="https://dotnet.microsoft.com/languages/csharp"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg"
+  alt="csharp" width="40" height="40"
+/> </a>
 <a href="https://developer.nvidia.com/cuda"> <img
   src="https://www.svgrepo.com/show/373541/cuda.svg"
   alt="cuda" width="40" height="40"
