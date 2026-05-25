@@ -35,74 +35,74 @@ Currently I'm learning blockchain and working on a trading software with Python,
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="javascript" width="40" height="40"
+  alt="javascript" title="JavaScript" width="40" height="40"
 /> </a>
 <a href="https://www.python.org"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  alt="python" width="40" height="40"
+  alt="python" title="Python" width="40" height="40"
 /> </a>
 <a href="https://www.c-language.org/"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg"
-  alt="c" width="40" height="40"
+  alt="c" title="C" width="40" height="40"
 /> </a>
 <a href="https://isocpp.org/"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg"
-  alt="c++" width="40" height="40"
+  alt="c++" title="C++" width="40" height="40"
 /> </a>
 <a href="https://dotnet.microsoft.com/languages/csharp"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg"
-  alt="csharp" width="40" height="40"
+  alt="c#" title="C#" width="40" height="40"
 /> </a>
 <a href="https://developer.nvidia.com/cuda"> <img
   src="https://www.svgrepo.com/show/373541/cuda.svg"
-  alt="cuda" width="40" height="40"
+  alt="cuda" title="Cuda" width="40" height="40"
 /> </a>
 <a href="https://www.w3.org/html/"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-  alt="html5" width="40" height="40"
+  alt="html5" title="HTML" width="40" height="40"
 /> </a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original-wordmark.svg"
-  alt="css3" width="40" height="40"
+  alt="css3" title="CSS" width="40" height="40"
 /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/GLSL_Shaders"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/opengl/opengl-original.svg"
-  alt="glsl" width="40" height="40"
+  alt="glsl" title="GLSL" width="40" height="40"
 /> </a>
 
 <a href="https://nodejs.org"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-  alt="nodejs" width="40" height="40"
+  alt="nodejs" title="NodeJS" width="40" height="40"
 /> </a>
 <a href="https://www.cloudflare.com/products/workers/"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cloudflareworkers/cloudflareworkers-original.svg"
-  alt="cloudflare-workers" width="40" height="40"
+  alt="cloudflare-workers" title="Cloudflare Workers" width="40" height="40"
 /> </a>
 <a href="https://reactjs.org/"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-  alt="react" width="40" height="40"
+  alt="react" title="React" width="40" height="40"
 /> </a>
 <a href="https://fastapi.tiangolo.com/ru/"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original.svg"
-  alt="fastapi" width="40" height="40"
+  alt="fastapi" title="FastApi" width="40" height="40"
 /> </a>
 <a href="https://pytorch.org/"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original.svg"
-  alt="pytorch" width="40" height="40"
+  alt="pytorch" title="PyTorch" width="40" height="40"
 /> </a>
 
 <a href="https://unity.com/"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unity/unity-original.svg"
-  alt="unity" width="40" height="40"
+  alt="unity" title="Unity" width="40" height="40"
 /> </a>
 <a href="https://pixijs.com/"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pixijs/pixijs-original.svg"
-  alt="pixijs" width="40" height="40"
+  alt="pixijs" title="PixiJS" width="40" height="40"
 /> </a>
 
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"> <img
   src="https://e7.pngegg.com/pngimages/157/473/png-clipart-stmicroelectronics-integrated-circuits-chips-printed-circuit-board-stm32-electronic-component-others-miscellaneous-blue-thumbnail.png"
-  alt="stm32" width="32" height="32"
+  alt="stm32" title="STM32" width="32" height="32"
 /> </a>
 
 
