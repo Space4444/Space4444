@@ -69,6 +69,10 @@ Currently I'm learning blockchain and working on a trading software with Python,
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/opengl/opengl-original.svg"
   alt="glsl" title="GLSL" width="40" height="40"
 /> </a>
+<a href="https://redis.io/"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original.svg"
+  alt="redis" title="Redis" width="40" height="40"
+/> </a>
 
 <a href="https://nodejs.org"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
