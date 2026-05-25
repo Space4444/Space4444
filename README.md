@@ -33,10 +33,6 @@ Currently I'm working on a trading software and learning blockchain.
 
 ## Languages and Tools:
 
-<a href="https://aws.amazon.com"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-  alt="aws" width="40" height="40"
-/> </a>
 <a href="https://getbootstrap.com"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
   alt="bootstrap" width="40" height="40"
