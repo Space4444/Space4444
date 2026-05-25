@@ -19,14 +19,14 @@ Currently I'm working on a trading software and learning blockchain.
 - ### Trading tools
   - [Tradesim](https://github.com/Space4444/tradesim)
 
-## Electronics
+## Electronics & Electricity
 
-- [Pulse generator](https://github.com/Space4444/Stm32Generator)
+- ### Devices with microcontrollers
+  - [Pulse generator](https://github.com/Space4444/Stm32Generator)
 
-## Electrical experiments
-
-- [Solid state Tesla coil](https://youtu.be/2J_Jde7yMhM)
-- [DC electric arc spinning in magnetic field](https://youtu.be/Skd7r6a4W-Y)
+- ### Electrical experiments
+  - [Solid state Tesla coil](https://youtu.be/2J_Jde7yMhM)
+  - [DC electric arc spinning in magnetic field](https://youtu.be/Skd7r6a4W-Y)
 
 ## My contacts
 
