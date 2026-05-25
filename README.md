@@ -1,6 +1,6 @@
 # Hello, I'm Alex
 
-I developed web and mobile games, trading tools and electronic devices.
+I developed web and mobile games, websites, trading tools and electronic devices.
 
 Currently I'm learning blockchain and working on a trading software with Python, Cuda and C++.
 
