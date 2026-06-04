@@ -2,7 +2,7 @@
 
 I developed web and mobile games, websites, trading tools and electronic devices.
 
-Currently I'm learning blockchain and working on a trading software with Python, Cuda and C++.
+Most of my projects were built long before AI era, so I didn't use any coding agents while creating them. But now I'm learning how to increase development productivity with AI and keep code clean at the same time. Also I'm learning blockchain and working on a trading software with Python, Cuda and C++.
 
 ## Software Development Projects
 
