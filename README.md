@@ -2,7 +2,7 @@
 
 I developed web and mobile games, websites, trading tools and electronic devices.
 
-Most of my projects were built long before AI era, so I didn't use any coding agents when creating them. But now I'm learning how to increase development productivity with AI and keep code clean at the same time. Also I'm learning blockchain and working on a trading software with Python, Cuda and C++.
+Most of my projects (except Nova Strike) were built long before AI era, so I didn't use any coding agents when creating them. But now I'm learning how to increase development productivity with AI and keep code clean at the same time. Also I'm learning blockchain and working on a trading software with Python, Cuda and C++.
 
 ## Software Development Projects
 
@@ -15,6 +15,7 @@ Most of my projects were built long before AI era, so I didn't use any coding ag
   - [Gravity Lens](https://github.com/Space4444/Gravity-Lens)
   - [Star Flight](https://github.com/Space4444/StarFlight)
   - [Space action 2D](https://github.com/Space4444/SpaceAction2D)
+  - [Nova Strike (AI-generated)](https://github.com/Space4444/nova-strike)
     
 - ### Trading tools
   - [Tradesim](https://github.com/Space4444/tradesim)
